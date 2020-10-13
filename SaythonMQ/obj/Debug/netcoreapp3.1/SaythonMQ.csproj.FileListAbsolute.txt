@@ -1,0 +1,8 @@
+E:\Bisnis\Microservices\SaythonMQ\SaythonMQ\bin\Debug\netcoreapp3.1\SaythonMQ.deps.json
+E:\Bisnis\Microservices\SaythonMQ\SaythonMQ\bin\Debug\netcoreapp3.1\SaythonMQ.dll
+E:\Bisnis\Microservices\SaythonMQ\SaythonMQ\obj\Debug\netcoreapp3.1\SaythonMQ.csprojAssemblyReference.cache
+E:\Bisnis\Microservices\SaythonMQ\SaythonMQ\obj\Debug\netcoreapp3.1\SaythonMQ.AssemblyInfoInputs.cache
+E:\Bisnis\Microservices\SaythonMQ\SaythonMQ\obj\Debug\netcoreapp3.1\SaythonMQ.AssemblyInfo.cs
+E:\Bisnis\Microservices\SaythonMQ\SaythonMQ\bin\Debug\netcoreapp3.1\SaythonMQ.pdb
+E:\Bisnis\Microservices\SaythonMQ\SaythonMQ\obj\Debug\netcoreapp3.1\SaythonMQ.dll
+E:\Bisnis\Microservices\SaythonMQ\SaythonMQ\obj\Debug\netcoreapp3.1\SaythonMQ.pdb
