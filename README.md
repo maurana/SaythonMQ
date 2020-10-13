@@ -1,2 +1,2 @@
 # SaythonMQ
-A Library Management RabbitMQ
+A Library Management RabbitMQ running On .NET Core
