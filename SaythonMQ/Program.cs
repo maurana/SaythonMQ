@@ -2,7 +2,7 @@
 
 namespace SaythonMQ
 {
-    public class Class1
+    public class Program
     {
         private void Test()
         {
