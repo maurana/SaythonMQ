@@ -1,0 +1,8 @@
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\bin\Release\netcoreapp3.1\SaythonMQ.deps.json
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\bin\Release\netcoreapp3.1\SaythonMQ.dll
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\bin\Release\netcoreapp3.1\SaythonMQ.pdb
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\obj\Release\netcoreapp3.1\SaythonMQ.csprojAssemblyReference.cache
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\obj\Release\netcoreapp3.1\SaythonMQ.AssemblyInfoInputs.cache
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\obj\Release\netcoreapp3.1\SaythonMQ.AssemblyInfo.cs
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\obj\Release\netcoreapp3.1\SaythonMQ.dll
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\obj\Release\netcoreapp3.1\SaythonMQ.pdb

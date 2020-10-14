@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SaythonMQ</id>
+    <version>1.0.0</version>
+    <authors>Maurana</authors>
+    <owners>Maurana</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/maurana/SaythonMQ</projectUrl>
+    <description>A library management RabbitMQ</description>
+    <copyright>SaythonMQ@2020</copyright>
+    <repository type="git" url="https://github.com/maurana/SaythonMQ" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Autofac" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CSharp" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="3.1.9" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="Polly" version="7.2.1" exclude="Build,Analyzers" />
+        <dependency id="RabbitMQ.Client" version="6.2.1" exclude="Build,Analyzers" />
+        <dependency id="System.ValueTuple" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\bin\Release\netcoreapp3.1\SaythonMQ.dll" target="lib\netcoreapp3.1\SaythonMQ.dll" />
+  </files>
+</package>
