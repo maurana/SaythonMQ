@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Maurana</Authors>
+    <Company>Open Source</Company>
+    <Description>A library management RabbitMQ</Description>
+    <Copyright>SaythonMQ@2020</Copyright>
+    <PackageProjectUrl>https://github.com/maurana/SaythonMQ</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/maurana/SaythonMQ</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <NeutralLanguage>id</NeutralLanguage>
   </PropertyGroup>
 
   <ItemGroup>
