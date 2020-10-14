@@ -444,11 +444,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Bisnis\\Microservices\\SaythonMQ\\SaythonMQ\\SaythonMQ.csproj",
+      "projectUniqueName": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\SaythonMQ\\SaythonMQ\\SaythonMQ.csproj",
       "projectName": "SaythonMQ",
-      "projectPath": "E:\\Bisnis\\Microservices\\SaythonMQ\\SaythonMQ\\SaythonMQ.csproj",
+      "projectPath": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\SaythonMQ\\SaythonMQ\\SaythonMQ.csproj",
       "packagesPath": "C:\\Users\\Fujitsu\\.nuget\\packages\\",
-      "outputPath": "E:\\Bisnis\\Microservices\\SaythonMQ\\SaythonMQ\\obj\\",
+      "outputPath": "C:\\Users\\Fujitsu\\Documents\\WacaraStartup\\SaythonMQ\\SaythonMQ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -6,3 +6,11 @@ E:\Bisnis\Microservices\SaythonMQ\SaythonMQ\obj\Debug\netcoreapp3.1\SaythonMQ.As
 E:\Bisnis\Microservices\SaythonMQ\SaythonMQ\bin\Debug\netcoreapp3.1\SaythonMQ.pdb
 E:\Bisnis\Microservices\SaythonMQ\SaythonMQ\obj\Debug\netcoreapp3.1\SaythonMQ.dll
 E:\Bisnis\Microservices\SaythonMQ\SaythonMQ\obj\Debug\netcoreapp3.1\SaythonMQ.pdb
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\bin\Debug\netcoreapp3.1\SaythonMQ.deps.json
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\bin\Debug\netcoreapp3.1\SaythonMQ.dll
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\bin\Debug\netcoreapp3.1\SaythonMQ.pdb
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\obj\Debug\netcoreapp3.1\SaythonMQ.csprojAssemblyReference.cache
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\obj\Debug\netcoreapp3.1\SaythonMQ.AssemblyInfoInputs.cache
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\obj\Debug\netcoreapp3.1\SaythonMQ.AssemblyInfo.cs
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\obj\Debug\netcoreapp3.1\SaythonMQ.dll
+C:\Users\Fujitsu\Documents\WacaraStartup\SaythonMQ\SaythonMQ\obj\Debug\netcoreapp3.1\SaythonMQ.pdb
